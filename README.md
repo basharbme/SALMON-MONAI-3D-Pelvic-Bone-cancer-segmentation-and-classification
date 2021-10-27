@@ -1,6 +1,6 @@
 # 3D-Pelvic-Bone-cancer-segmentation+classification
 
-# Secondary Sarcoma Segmentation by AI.
+# Sarcoma Segmentation by AI.
 ![](https://github.com/basharbme/3D-Pelvic-Bone-cancer-classification/blob/main/33333.PNG)
 
 # Data set:
