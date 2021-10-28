@@ -1,8 +1,8 @@
+# 3D-Pelvic-Bone-cancer-segmentation+classification
 
 # UNET used for Segmentation 
 # DenseNet used for Classification
 
-# 3D-Pelvic-Bone-cancer-segmentation+classification
 
 # Sarcoma Segmentation by AI.
 ![](https://github.com/basharbme/3D-Pelvic-Bone-cancer-classification/blob/main/33333.PNG)
