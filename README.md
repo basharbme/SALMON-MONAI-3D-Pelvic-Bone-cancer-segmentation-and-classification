@@ -1,3 +1,7 @@
+
+# UNET used for Segmentation 
+# DenseNet used for Classification
+
 # 3D-Pelvic-Bone-cancer-segmentation+classification
 
 # Sarcoma Segmentation by AI.
