@@ -16,5 +16,7 @@
 # 3D Classification
 ![](https://github.com/basharbme/3D-Pelvic-Bone-cancer-segmentation-and-classification/blob/main/classification_2.PNG)
 
-# Dataset:
+# Datasets:
 (https://drive.google.com/drive/folders/1jgopzpUIyqGdqJFO_a0P26eOPwgONHEt?usp=sharing)
+
+(https://drive.google.com/drive/folders/1v5rYgqVZx7RIMthFdnHE2e8jproEclaw?usp=sharing)
