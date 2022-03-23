@@ -1,7 +1,7 @@
 ![](https://github.com/basharbme/SALMON-3D-Pelvic-Bone-cancer-segmentation-and-classification/blob/main/salmon.jpg)
 
-#  SALMON  SALMON v.2: Segmentation deep learning ALgorithm based on MONai toolbox
-3D-Pelvic-Bone-cancer-segmentation+classification
+#  SALMON v.2: Segmentation deep learning ALgorithm based on MONai toolbox
+#  3D-Pelvic-Bone-cancer-segmentation+classification
 
 
 ![](https://github.com/basharbme/3D-Pelvic-Bone-cancer-segmentation-and-classification/blob/main/0_IMG-20211028-WA0022.jpg)
