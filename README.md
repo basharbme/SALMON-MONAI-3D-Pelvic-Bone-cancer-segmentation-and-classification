@@ -1,4 +1,11 @@
-![](https://github.com/basharbme/SALMON-3D-Pelvic-Bone-cancer-segmentation-and-classification/blob/main/salmon.jpg)
+![](https://github.com/basharbme/SALMON-3D-Pelvic-Bone-cancer-segmentation
+-and-classificatio
+
+Author : Eng. Bashar Shami
+Partner : Mona Shouman 
+
+
+n/blob/main/salmon.jpg)
 
 #  SALMON v.2: Segmentation deep learning ALgorithm based on MONai toolbox
 #  3D-Pelvic-Bone-cancer-segmentation+classification
@@ -20,3 +27,6 @@
 
 # Dataset:
 https://drive.google.com/drive/folders/17ox2SK8g3wpp7Fb6nQx2GEvcgBNZXeEz?usp=sharing
+
+
+
